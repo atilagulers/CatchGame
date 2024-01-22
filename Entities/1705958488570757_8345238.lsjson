@@ -1,0 +1,42 @@
+{
+    "1705958488569663:8345237": {
+        "IFileManager": {
+            "path": "Files/File_1705958488569663_8345237.pvr"
+        }
+    },
+    "1705958488570757:8345238": {
+        "IResourceController": {
+            "name": "controlDot",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705958488570933:8345239",
+            "fileId": "1705958488569663:8345237",
+            "originalId": "1705958488571117:8345244",
+            "publicId": "1705958488577016:8345254",
+            "expected_hash": "a1857f39ed46dcd17f54b355420ee876",
+            "additional": {
+                "originHash": "a1857f39ed46dcd17f54b355420ee876"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1705958488570933:8345239",
+            "name": "Files/File_1705958488569663_8345237.jpg",
+            "flags": 1
+        }
+    },
+    "1705958488571117:8345244": {
+        "IFileManager": {
+            "path": "Files/File_1705958488571117_8345244.pvr"
+        }
+    },
+    "1705958488577016:8345254": {
+        "IResourceController": {
+            "public": {
+                "path": "Navigation UI Resources/Textures/controlDot.pvr",
+                "hash": "a1857f39ed46dcd17f54b355420ee876"
+            }
+        }
+    }
+}

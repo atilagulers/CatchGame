@@ -1,0 +1,80 @@
+{
+    "1705960202276814:9149457": {
+        "IFileManager": {
+            "path": "Files/File_1705960202276814_9149457.pvr"
+        }
+    },
+    "1705960202277203:9149458": {
+        "IResourceController": {
+            "name": "Image",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705960202277519:9149459",
+            "fileId": "1705960202276814:9149457",
+            "originalId": "1705960202277616:9149464",
+            "publicId": "1705960202281810:9149475",
+            "expected_hash": "c7883f4d3d4d72d3627490c7e5c31786",
+            "additional": {
+                "originHash": "54b5e21104a4a7f86b3d510596fdc27e",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1705960202277519:9149459",
+            "name": "Files/File_1705960202276814_9149457.jpg",
+            "flags": 1
+        }
+    },
+    "1705960202277519:9149459": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "54b5e21104a4a7f86b3d510596fdc27e"
+                    },
+                    "v": "1705960205097620:9153425"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "28800",
+                "compressedSize": "2723",
+                "extension": "png",
+                "originalRAM": "230400",
+                "originalSize": "5870",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1705960202280464:9149474"
+        }
+    },
+    "1705960202277616:9149464": {
+        "IFileManager": {
+            "path": "Files/File_1705960202277616_9149464.png"
+        }
+    },
+    "1705960202280464:9149474": {
+        "IFileManager": {
+            "path": "Files/File_1705960202280464_9149474.png"
+        }
+    },
+    "1705960202281810:9149475": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/ExampleResources [REMOVE_ME]/Textures/TweenImageTextures/Image.png",
+                "hash": "54b5e21104a4a7f86b3d510596fdc27e"
+            }
+        }
+    },
+    "1705960205097620:9153425": {
+        "IFileManager": {
+            "path": "Files/File_1705960205097620_9153425.pvr"
+        }
+    }
+}

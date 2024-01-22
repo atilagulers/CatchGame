@@ -1,0 +1,38 @@
+{
+    "1705960201896139:9149145": {
+        "IFileManager": {
+            "path": "Files/File_1705960201896139_9149145.js"
+        }
+    },
+    "1705960201896529:9149146": {
+        "IResourceController": {
+            "name": "TweenRotFromEuler",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705960201896532:9149147",
+            "fileId": "1705960201896139:9149145",
+            "publicId": "1705960201899260:9149159",
+            "expected_hash": "d33605df29ec2e9f380efec9489a0e9f"
+        },
+        "IResourceManager": {
+            "uid": "1705960201896532:9149147",
+            "name": "Files/File_1705960201896139_9149145.js",
+            "flags": 1
+        }
+    },
+    "1705960201896532:9149147": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1705960201899260:9149159": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Rotation/TweenRotFromEuler.js",
+                "hash": "d33605df29ec2e9f380efec9489a0e9f"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1705960201821994:9148749": {
+        "IFileManager": {
+            "path": "Files/File_1705960201821994_9148749.js"
+        }
+    },
+    "1705960201822494:9148750": {
+        "IResourceController": {
+            "name": "LinearFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705960201822499:9148751",
+            "fileId": "1705960201821994:9148749",
+            "publicId": "1705960201824048:9148769",
+            "expected_hash": "98bbef221db85e4257411f53c0958ba1"
+        },
+        "IResourceManager": {
+            "uid": "1705960201822499:9148751",
+            "name": "Files/File_1705960201821994_9148749.js",
+            "flags": 1
+        }
+    },
+    "1705960201822499:9148751": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1705960201824048:9148769": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/LinearFunc.js",
+                "hash": "98bbef221db85e4257411f53c0958ba1"
+            }
+        }
+    }
+}

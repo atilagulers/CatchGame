@@ -1,0 +1,22 @@
+{
+    "1705958488580954:8345270": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1705958488581112:8345271",
+            "resources": [
+                "1705958488579501:8345259"
+            ]
+        }
+    },
+    "1705958488581112:8345271": {
+        "IResourceController": {
+            "public": {
+                "path": "Navigation UI Resources/Scripts"
+            }
+        }
+    }
+}

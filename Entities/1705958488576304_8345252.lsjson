@@ -1,0 +1,24 @@
+{
+    "1705958488576304:8345252": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1705958488576483:8345253",
+            "resources": [
+                "1705958488570757:8345238",
+                "1705958488583893:8345274",
+                "1705958488590020:8345288"
+            ]
+        }
+    },
+    "1705958488576483:8345253": {
+        "IResourceController": {
+            "public": {
+                "path": "Navigation UI Resources/Textures"
+            }
+        }
+    }
+}

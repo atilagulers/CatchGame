@@ -1,0 +1,23 @@
+{
+    "1705958118344984:8199455": {
+        "IResourceController": {
+            "name": "Double Sided Glass Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1705958149581999:8218532",
+            "resources": [
+                "1705958118350209:8199474",
+                "1705958118351749:8199477"
+            ]
+        }
+    },
+    "1705958149581999:8218532": {
+        "IResourceController": {
+            "public": {
+                "path": "Double Sided Glass Resources"
+            }
+        }
+    }
+}

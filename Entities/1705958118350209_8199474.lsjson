@@ -1,0 +1,22 @@
+{
+    "1705958118350209:8199474": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1705958149582937:8218535",
+            "resources": [
+                "1705958118349880:8199466"
+            ]
+        }
+    },
+    "1705958149582937:8218535": {
+        "IResourceController": {
+            "public": {
+                "path": "Double Sided Glass Resources/Textures"
+            }
+        }
+    }
+}

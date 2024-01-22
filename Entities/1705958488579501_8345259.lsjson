@@ -1,0 +1,38 @@
+{
+    "1705958488578659:8345258": {
+        "IFileManager": {
+            "path": "Files/File_1705958488578659_8345258.js"
+        }
+    },
+    "1705958488579501:8345259": {
+        "IResourceController": {
+            "name": "NavigationUIController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705958488579513:8345260",
+            "fileId": "1705958488578659:8345258",
+            "publicId": "1705958488582355:8345272",
+            "expected_hash": "55633eba7925b81a98de8bd6e2096db3"
+        },
+        "IResourceManager": {
+            "uid": "1705958488579513:8345260",
+            "name": "Files/File_1705958488578659_8345258.js",
+            "flags": 1
+        }
+    },
+    "1705958488579513:8345260": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1705958488582355:8345272": {
+        "IResourceController": {
+            "public": {
+                "path": "Navigation UI Resources/Scripts/NavigationUIController.js",
+                "hash": "55633eba7925b81a98de8bd6e2096db3"
+            }
+        }
+    }
+}

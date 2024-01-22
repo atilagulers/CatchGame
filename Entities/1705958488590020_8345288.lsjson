@@ -1,0 +1,42 @@
+{
+    "1705958488589374:8345287": {
+        "IFileManager": {
+            "path": "Files/File_1705958488589374_8345287.pvr"
+        }
+    },
+    "1705958488590020:8345288": {
+        "IResourceController": {
+            "name": "controlPlate",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705958488590071:8345289",
+            "fileId": "1705958488589374:8345287",
+            "originalId": "1705958488590205:8345294",
+            "publicId": "1705958488593788:8345300",
+            "expected_hash": "bf477f8efbaf0dada774c9812926730a",
+            "additional": {
+                "originHash": "bf477f8efbaf0dada774c9812926730a"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1705958488590071:8345289",
+            "name": "Files/File_1705958488589374_8345287.jpg",
+            "flags": 1
+        }
+    },
+    "1705958488590205:8345294": {
+        "IFileManager": {
+            "path": "Files/File_1705958488590205_8345294.pvr"
+        }
+    },
+    "1705958488593788:8345300": {
+        "IResourceController": {
+            "public": {
+                "path": "Navigation UI Resources/Textures/controlPlate.pvr",
+                "hash": "bf477f8efbaf0dada774c9812926730a"
+            }
+        }
+    }
+}

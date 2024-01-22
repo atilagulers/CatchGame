@@ -1,0 +1,38 @@
+{
+    "1705960211756682:9160780": {
+        "IFileManager": {
+            "path": "Files/File_1705960211756682_9160780.js"
+        }
+    },
+    "1705960211757531:9160781": {
+        "IResourceController": {
+            "name": "Arm",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705960211757540:9160782",
+            "fileId": "1705960211756682:9160780",
+            "publicId": "1705960211758492:9160787",
+            "expected_hash": "7883e398537223c5e1f621c5d3eefd45"
+        },
+        "IResourceManager": {
+            "uid": "1705960211757540:9160782",
+            "name": "Files/File_1705960211756682_9160780.js",
+            "flags": 1
+        }
+    },
+    "1705960211757540:9160782": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1705960211758492:9160787": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Arm.js",
+                "hash": "7883e398537223c5e1f621c5d3eefd45"
+            }
+        }
+    }
+}

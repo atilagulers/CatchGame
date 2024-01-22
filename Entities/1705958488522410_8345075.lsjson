@@ -1,0 +1,39 @@
+{
+    "1705958488522410:8345075": {
+        "IResourceController": {
+            "name": "NavigationUI",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705958488522389:8345072",
+            "fileId": "1705958488536690:8345084",
+            "originalId": "1705959235985852:8706796",
+            "publicId": "1705958488598466:8345453",
+            "expected_hash": "a07850b5ccd4ee1db9f020e6c88d2d7b"
+        },
+        "IResourceManager": {
+            "uid": "1705958488522389:8345072",
+            "name": "sceneObject_8",
+            "flags": 0
+        }
+    },
+    "1705958488536690:8345084": {
+        "IFileManager": {
+            "path": "Files/File_1705958488536690_8345084.oprfb"
+        }
+    },
+    "1705958488598466:8345453": {
+        "IResourceController": {
+            "public": {
+                "path": "NavigationUI.oprfb",
+                "hash": "e30ccc044520bbf7e5a31c8030b18d8a"
+            }
+        }
+    },
+    "1705959235985852:8706796": {
+        "IFileManager": {
+            "path": "Files/File_1705959235985852_8706796.oprfb"
+        }
+    }
+}

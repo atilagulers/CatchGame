@@ -1,0 +1,42 @@
+{
+    "1705958488583346:8345273": {
+        "IFileManager": {
+            "path": "Files/File_1705958488583346_8345273.pvr"
+        }
+    },
+    "1705958488583893:8345274": {
+        "IResourceController": {
+            "name": "locationIndicator",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705958488583945:8345275",
+            "fileId": "1705958488583346:8345273",
+            "originalId": "1705958488584061:8345280",
+            "publicId": "1705958488587223:8345286",
+            "expected_hash": "3f9b57b17fb44c2c726651a60264a49d",
+            "additional": {
+                "originHash": "3f9b57b17fb44c2c726651a60264a49d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1705958488583945:8345275",
+            "name": "Files/File_1705958488583346_8345273.jpg",
+            "flags": 1
+        }
+    },
+    "1705958488584061:8345280": {
+        "IFileManager": {
+            "path": "Files/File_1705958488584061_8345280.pvr"
+        }
+    },
+    "1705958488587223:8345286": {
+        "IResourceController": {
+            "public": {
+                "path": "Navigation UI Resources/Textures/locationIndicator.pvr",
+                "hash": "3f9b57b17fb44c2c726651a60264a49d"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1705958488568235:8345232": {
+        "IResourceController": {
+            "name": "Navigation UI Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1705958488568389:8345233",
+            "resources": [
+                "1705958488568633:8345234",
+                "1705958488576304:8345252",
+                "1705958488580954:8345270"
+            ]
+        }
+    },
+    "1705958488568389:8345233": {
+        "IResourceController": {
+            "public": {
+                "path": "Navigation UI Resources"
+            }
+        }
+    }
+}

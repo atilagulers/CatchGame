@@ -1,0 +1,38 @@
+{
+    "1705960201840932:9148845": {
+        "IFileManager": {
+            "path": "Files/File_1705960201840932_9148845.js"
+        }
+    },
+    "1705960201841603:9148846": {
+        "IResourceController": {
+            "name": "StoreTween",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705960201841617:9148847",
+            "fileId": "1705960201840932:9148845",
+            "publicId": "1705960201843081:9148857",
+            "expected_hash": "e48d104d528dc63010207b133b7ee6a1"
+        },
+        "IResourceManager": {
+            "uid": "1705960201841617:9148847",
+            "name": "Files/File_1705960201840932_9148845.js",
+            "flags": 1
+        }
+    },
+    "1705960201841617:9148847": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1705960201843081:9148857": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Helpers/StoreTween.js",
+                "hash": "e48d104d528dc63010207b133b7ee6a1"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1705960201883243:9149073": {
+        "IFileManager": {
+            "path": "Files/File_1705960201883243_9149073.js"
+        }
+    },
+    "1705960201883750:9149074": {
+        "IResourceController": {
+            "name": "TweenPosFrom",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705960201883756:9149075",
+            "fileId": "1705960201883243:9149073",
+            "publicId": "1705960201885224:9149085",
+            "expected_hash": "5f912c12472442607302d8c432a70d09"
+        },
+        "IResourceManager": {
+            "uid": "1705960201883756:9149075",
+            "name": "Files/File_1705960201883243_9149073.js",
+            "flags": 1
+        }
+    },
+    "1705960201883756:9149075": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1705960201885224:9149085": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Position/TweenPosFrom.js",
+                "hash": "5f912c12472442607302d8c432a70d09"
+            }
+        }
+    }
+}

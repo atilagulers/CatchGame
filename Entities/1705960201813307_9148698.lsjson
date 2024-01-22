@@ -1,0 +1,38 @@
+{
+    "1705960201812812:9148697": {
+        "IFileManager": {
+            "path": "Files/File_1705960201812812_9148697.js"
+        }
+    },
+    "1705960201813307:9148698": {
+        "IResourceController": {
+            "name": "ExponentialFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705960201813311:9148699",
+            "fileId": "1705960201812812:9148697",
+            "publicId": "1705960201814597:9148709",
+            "expected_hash": "863d75279953fa75fc8b9e56ad964adc"
+        },
+        "IResourceManager": {
+            "uid": "1705960201813311:9148699",
+            "name": "Files/File_1705960201812812_9148697.js",
+            "flags": 1
+        }
+    },
+    "1705960201813311:9148699": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1705960201814597:9148709": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/ExponentialFunc.js",
+                "hash": "863d75279953fa75fc8b9e56ad964adc"
+            }
+        }
+    }
+}

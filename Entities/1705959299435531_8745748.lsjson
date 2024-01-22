@@ -1,0 +1,38 @@
+{
+    "1705959299433929:8745747": {
+        "IFileManager": {
+            "path": "Files/File_1705959299433929_8745747.js"
+        }
+    },
+    "1705959299435531:8745748": {
+        "IResourceController": {
+            "name": "Box",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1705959299435550:8745749",
+            "fileId": "1705959299433929:8745747",
+            "publicId": "1705959299436500:8745754",
+            "expected_hash": "8ee354b0c1aee98c851b691361042d4a"
+        },
+        "IResourceManager": {
+            "uid": "1705959299435550:8745749",
+            "name": "Files/File_1705959299433929_8745747.js",
+            "flags": 1
+        }
+    },
+    "1705959299435550:8745749": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1705959299436500:8745754": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Box.js",
+                "hash": "8ee354b0c1aee98c851b691361042d4a"
+            }
+        }
+    }
+}
