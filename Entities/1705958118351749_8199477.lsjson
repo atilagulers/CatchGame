@@ -15,7 +15,7 @@
             "fileId": "1705958118351120:8199476",
             "originalId": "1705958118365932:8199482",
             "publicId": "1705958118416891:8199502",
-            "expected_hash": "554a6abdd8883b21e1010901144a14b2"
+            "expected_hash": "b500aafa974332586d6be2cb6ae6255e"
         },
         "IResourceManager": {
             "uid": "1705958118351752:8199478",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Double Sided Glass Resources/Graph Glass.lsmat",
-                "hash": "ba73a82e91ba35d30a19676332510305"
+                "hash": "aa4f1ce96cae24eff6dd6899c3151d87"
             }
         }
     }
